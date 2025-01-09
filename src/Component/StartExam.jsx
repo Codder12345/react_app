@@ -47,6 +47,11 @@ let StartEx=({questions})=>{
           setscore()
   } 
 
+
+
+
+
+  
   let questionsubmit = (e) => {
         e.preventDefault()
         
