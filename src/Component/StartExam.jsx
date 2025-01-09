@@ -51,7 +51,7 @@ let StartEx=({questions})=>{
 
 
 
-  
+
   let questionsubmit = (e) => {
         e.preventDefault()
         
@@ -95,3 +95,10 @@ let StartEx=({questions})=>{
 
 }
 export default StartEx;
+
+
+//  once we create a git repsitory and added remote origin 
+// add , commit , push
+// git add .
+// git commit -m "wirte your comment here"
+// git push -u origin main
